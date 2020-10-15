@@ -26,9 +26,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot1][product-screenshot]]([product-screenshot1]: https://github.com/nadavleh/Graph-Traversal-Visualization-Tool/blob/main/graph1.png)
-[![Product Name Screen Shot2][product-screenshot]]([product-screenshot1]: https://github.com/nadavleh/Graph-Traversal-Visualization-Tool/blob/main/graph2.png)
+![photo1]
+![photo2]
 ### Built With
 
 * [pygame](https://www.pygame.org/docs/)
@@ -85,5 +84,5 @@ Project Link: [https://github.com/nadavleh/Chess_AI](https://github.com/nadavleh
 [issues-shield]: https://img.shields.io/github/issues/nadavleh/repo.svg?style=flat-square
 [issues-url]: https://github.com/nadavleh/repo/issues
 [license-shield]: https://img.shields.io/github/license/nadavleh/repo.svg?style=flat-square
-[product-screenshot1]: https://github.com/nadavleh/Graph-Traversal-Visualization-Tool/blob/main/graph1.png
-[product-screenshot2]: https://github.com/nadavleh/Graph-Traversal-Visualization-Tool/blob/main/graph2.png
+[photo1]: https://github.com/nadavleh/Graph-Traversal-Visualization-Tool/blob/main/graph1.png
+[photo2]: https://github.com/nadavleh/Graph-Traversal-Visualization-Tool/blob/main/graph2.png
