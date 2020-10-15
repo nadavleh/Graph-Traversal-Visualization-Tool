@@ -27,6 +27,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![photo1]
+This is a simple python application in which you pick a start square and an end square from a 50 by 50 grid (changable in the code), and place barriers in between those points at any square the user wishes to. By pressing spacebar after the user is done drawing his\hers start, end and barrier points, the A* algorithm begins. On the screen you will be able to see the computer traversing through the grid in an a* fashion. A blue square will indicate the starting position while an orange one indicates the end square. If a square is turned green it means this square was pushed to the Priority Queue (PQ) from which the algorithm chooses its next node to inquire. The red squares are squares which have already been investigated and found not to be equal to the end node (i.e. closed nodes).
+
 ![photo2]
 ### Built With
 
@@ -44,7 +46,7 @@ Just install pygame 1.9.6:
 
 
 ## Usage
-
+Simply run the program and choose the stat square and the end square subsequently, choose barrier. IF you wan to erase a square (i.e. change the start\end\barrier points), simply right click on the chosen square. If you erase a start\end\barrier square, the next time you will click on a square it will turn to the same type of square you have just deleted. 
 
 
 
